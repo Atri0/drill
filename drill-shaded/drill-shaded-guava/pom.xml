@@ -32,7 +32,7 @@
   <name>drill-shaded/drill-shaded-guava</name>
 
   <properties>
-    <guava.version>23.0</guava.version>
+    <guava.version>30.0-android</guava.version>
   </properties>
 
   <dependencies>
